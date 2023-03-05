@@ -6,6 +6,7 @@ npm packages used---->
     express
     mysql2
     redis
+    http-errors
     nodemon -D
 
 
